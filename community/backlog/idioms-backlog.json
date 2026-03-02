@@ -159,7 +159,7 @@
     "meaning": "Take extra care. (Set 1)",
     "id": 18,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "立つ鳥跡を濁さず",
@@ -168,7 +168,7 @@
     "meaning": "Leave cleanly without trouble. (Set 1)",
     "id": 19,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "手に入れる",
@@ -176,7 +176,7 @@
     "english": "Put into one’s hand",
     "meaning": "Obtain something. (Set 1)",
     "id": 20,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
