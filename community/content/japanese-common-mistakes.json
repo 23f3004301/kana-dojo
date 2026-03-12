@@ -85,8 +85,8 @@
   "explanation": "で marks location of action. (Pattern set 2)"
   },
   {
-  "wrong": "駅まで十分歩きますかかる。",
-  "correct": "駅まで歩いて十分かかる。",
-  "explanation": "Use natural collocation and order. (Pattern set 5)"
-}
+  "wrong": "この漢字は読み方が難しいです。",
+  "correct": "この漢字の読み方は難しいです。",
+  "explanation": "Prefer noun linkage with の. (Pattern set 5)"
+  }
 ]
