@@ -951,7 +951,7 @@
     "note": "立て箸は弔事連想のため避ける。",
     "id": 106,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "神社参拝 6",
@@ -959,7 +959,7 @@
     "dont": "参道の中央を歩く",
     "note": "中央は神様の通り道とされる。",
     "id": 107,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
