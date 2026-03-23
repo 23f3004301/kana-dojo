@@ -23,7 +23,7 @@
     "romaji": "I no naka no kawazu taikai wo shirazu",
     "english": "A frog in a well does not know the great sea",
     "meaning": "Those with limited experience cannot understand the bigger picture",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -50,7 +50,7 @@
     "romaji": "Nou aru taka wa tsume wo kakusu",
     "english": "The talented hawk hides its talons",
     "meaning": "Truly skilled people don't show off their abilities",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -574,7 +574,7 @@
     "romaji": "Ki wo mite mori wo mizu",
     "english": "See the trees but not the forest",
     "meaning": "Miss the bigger picture",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -584,7 +584,7 @@
     "english": "If you eat poison, eat the plate too",
     "meaning": "If you must do something risky, go all the way",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 66,
